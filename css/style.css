@@ -579,3 +579,19 @@
     }
 }
 
+/* Project List in Footer */
+.footer .list-unstyled li h6 {
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+}
+
+.footer .list-unstyled li p {
+    font-size: 0.875rem;
+    line-height: 1.4;
+    margin-bottom: 0.75rem;
+}
+
+.footer .list-unstyled li:last-child p {
+    margin-bottom: 0;
+}
+
